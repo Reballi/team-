@@ -1,0 +1,15 @@
+F:\Git\bin\Debug\net6.0\Git.exe
+F:\Git\bin\Debug\net6.0\Git.deps.json
+F:\Git\bin\Debug\net6.0\Git.runtimeconfig.json
+F:\Git\bin\Debug\net6.0\Git.dll
+F:\Git\bin\Debug\net6.0\Git.pdb
+F:\Git\obj\Debug\net6.0\Git.csproj.AssemblyReference.cache
+F:\Git\obj\Debug\net6.0\Git.GeneratedMSBuildEditorConfig.editorconfig
+F:\Git\obj\Debug\net6.0\Git.AssemblyInfoInputs.cache
+F:\Git\obj\Debug\net6.0\Git.AssemblyInfo.cs
+F:\Git\obj\Debug\net6.0\Git.csproj.CoreCompileInputs.cache
+F:\Git\obj\Debug\net6.0\Git.dll
+F:\Git\obj\Debug\net6.0\refint\Git.dll
+F:\Git\obj\Debug\net6.0\Git.pdb
+F:\Git\obj\Debug\net6.0\Git.genruntimeconfig.cache
+F:\Git\obj\Debug\net6.0\ref\Git.dll
